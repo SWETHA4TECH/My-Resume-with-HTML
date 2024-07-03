@@ -17,12 +17,10 @@
     </p>
     <hr>
     <h2>Education</h2>
-   
-    <div><p>RMK Engineering College, Chennai<br>
+   <div><p>RMK Engineering College, Chennai<br>
         BE Computer Science and Engineering<br>
         2022 - 2026</p>
     <ul><li>Current CGPA: 8</li></ul></div>
-    
     <div><p>Velammal School<br>
         Higher Secondary (CBSE), BioMaths<br>
         <ul><li>Grade: 95.23%</li></ul></p>
@@ -50,7 +48,6 @@
 <h2>Awards & Certifications</h2>
 <p>Certificate of Excellence in High School Studies<br>
 <ul><li>Velammal School, April 2019</li></ul>
-    
     Awarded for outstanding academic performance with a Grade of 95.2%.</p><hr>
     <h2>Others</h2>
     <ul><li><a href="Hobby.html">My Hobbies</a></li>
