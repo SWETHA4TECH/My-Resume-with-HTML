@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Swetha M</h1>
-    <img src="swetha.jpg" alt="my pic" style="width:100px ">
+    <img src="img.jpg" alt="my pic" style="width:100px ">
     <h2>Summary</h2>
     <p>Aspiring Digital Nomad and Learning Technocrat currently focusing on 
         acquiring skills in web development, Python, Figma, React, and JavaScript. 
